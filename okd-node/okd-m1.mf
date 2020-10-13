@@ -1,0 +1,1 @@
+SHA1(okd-m1-1.vmdk)= ca68b71ca6494220cf577d751d0a023ac09c7ac4
